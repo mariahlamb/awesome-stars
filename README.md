@@ -115,6 +115,7 @@
 
 ## JavaScript 
 
+- [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
 - [w1770946466/Everyday_News](https://github.com/w1770946466/Everyday_News) - This is everyday news!
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
@@ -185,6 +186,7 @@
 
 ## PowerShell 
 
+- [zuluion/Clash-Template-Config](https://github.com/zuluion/Clash-Template-Config) - 自用Clash配置文件模板
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [DuckyOnQuack-999/Win11-Customizer-Suite](https://github.com/DuckyOnQuack-999/Win11-Customizer-Suite) - Customize and optimize Windows 11 like never before! This pack includes an array of themes, icons, wallpapers, various system tweaking application's and performance optimizations to enhance the aesthe
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -204,6 +206,8 @@
 
 ## Python 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [GabrielRF/Rss2Telegram](https://github.com/GabrielRF/Rss2Telegram) - Automatically sends rss feed posts to Telegram
 - [hiifong/starList](https://github.com/hiifong/starList) - Export your star's repository list
 - [bighammer-link/jichang_checkin](https://github.com/bighammer-link/jichang_checkin) - 🚀🚀通用的机场签到😎😎
 - [bighammer-link/jichang_dailycheckin](https://github.com/bighammer-link/jichang_dailycheckin) - ikuuu机场每日签到
