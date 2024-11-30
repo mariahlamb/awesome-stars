@@ -149,6 +149,7 @@
 
 ## Others 
 
+- [CorralPeltzer/my-stars](https://github.com/CorralPeltzer/my-stars) - A curated list of my GitHub stars by stargazed
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [makipom/MomoTalk-Telegram](https://github.com/makipom/MomoTalk-Telegram) - A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -207,6 +208,8 @@
 
 ## Python 
 
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
+- [mariahlamb/mfbpn_nodes](https://github.com/mariahlamb/mfbpn_nodes) - 
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [GabrielRF/Rss2Telegram](https://github.com/GabrielRF/Rss2Telegram) - Automatically sends rss feed posts to Telegram
@@ -222,11 +225,9 @@
 - [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) - free vmess vless trojan shadowsocks live v2ray_xray configs splitted by country
 - [sinspired/cnNetTool](https://github.com/sinspired/cnNetTool) - 全面解锁Github，解决加载慢、无法访问等问题！解锁Google翻译，支持chrome网页翻译及插件；解锁tinyMediaManager影视刮削；解锁划词翻译。自动设置最佳DNS服务器，Enjoy❤
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
 - [awuaaaaa/vless-py](https://github.com/awuaaaaa/vless-py) - 
 - [ph-root/proxy-GR](https://github.com/ph-root/proxy-GR) - Python-based Massive Proxy Grabber. This bot grabs proxies from public websites so you can use them.
 - [w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy) - Automatic acquisition of TG channel proxy information
-- [mariahlamb/FreeNodes](https://github.com/mariahlamb/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [StuPeter/Sougou_dict_spider](https://github.com/StuPeter/Sougou_dict_spider) - 搜狗词库爬虫，全类目下载，自动分类，scel转txt
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -272,9 +273,10 @@
 
 ## TypeScript 
 
+- [Jazee6/gemini-proxy](https://github.com/Jazee6/gemini-proxy) - Gemini proxy on Vercel Edge
+- [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 - [TBXark/cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter) - Running your Cloudflare Workers application locally.
-- [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -284,7 +286,6 @@
 - [mariahlamb/gemini-proxy](https://github.com/mariahlamb/gemini-proxy) - Gemini proxy on Vercel Edge
 - [mariahlamb/BetterChatGPT](https://github.com/mariahlamb/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [UNICKCHENG/openai-proxy](https://github.com/UNICKCHENG/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
-- [Jazee6/gemini-proxy](https://github.com/Jazee6/gemini-proxy) - Gemini proxy on Vercel Edge
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
