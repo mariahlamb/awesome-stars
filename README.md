@@ -116,6 +116,7 @@
 
 ## JavaScript 
 
+- [zjmkkk/Serv00_CT8_Auto_Login](https://github.com/zjmkkk/Serv00_CT8_Auto_Login) - Serv00-CT8 - 免费主机自动登录续期
 - [snakeying/GPT-Telegram-Bot](https://github.com/snakeying/GPT-Telegram-Bot) - Your own GPT Telegram Bot on Vercel
 - [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
 - [w1770946466/Everyday_News](https://github.com/w1770946466/Everyday_News) - This is everyday news!
