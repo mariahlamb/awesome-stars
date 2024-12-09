@@ -152,6 +152,7 @@
 
 ## Others 
 
+- [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
 - [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 - [CorralPeltzer/my-stars](https://github.com/CorralPeltzer/my-stars) - A curated list of my GitHub stars by stargazed
