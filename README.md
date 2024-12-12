@@ -64,7 +64,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-- [Olivia6841/Retro-Shell](https://github.com/Olivia6841/Retro-Shell) - Classic Shell Reborn.
+- [Olive6841/Retro-Shell](https://github.com/Olive6841/Retro-Shell) - Classic Shell Reborn.
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox) - The official Waterfox 💧 source code repository
 - [forkgram/tdesktop](https://github.com/forkgram/tdesktop) - Fork of Telegram Desktop messaging app.
@@ -102,6 +102,7 @@
 
 ## HTML 
 
+- [DHBin/ai-connect](https://github.com/DHBin/ai-connect) - 
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [erosman/extension-translations](https://github.com/erosman/extension-translations) - Public Repository to add Translations to my Extensions
@@ -171,7 +172,7 @@
 - [bonzibudd/Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - A modern, highly customizable Start menu skin for Open-Shell.
 - [XPancc/Huorong-Rules](https://github.com/XPancc/Huorong-Rules) - 集百家之长，佛系完善。
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等。 |   Use Adblock syntax to fight against various advertising SDKs in Android applications from the network level ,  prevent them from lo
+- [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia/Tutorial rápido do WSL2 + Docker
 - [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
@@ -210,10 +211,12 @@
 - [polachz/wsl-scripts](https://github.com/polachz/wsl-scripts) - WSL automation from automactic any Linux Distribution Image creation (based on DockerHub) to massive deployment and bootstrapping. No Docker Engine necessary!
 - [howiehu/offline-wsl2-docker-k8s-installer](https://github.com/howiehu/offline-wsl2-docker-k8s-installer) - A script tool tailored for Windows environments that facilitates offline installation of WSL2, Docker, and Kubernetes, simplifying the setup and deployment process.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
-- [kpcintegrations/KPC-OneCommanderScripts](https://github.com/kpcintegrations/KPC-OneCommanderScripts) - A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts.
+- [kamekairos/KPC-OneCommanderScripts](https://github.com/kamekairos/KPC-OneCommanderScripts) - A collection of scripts for the alternative file manager OneCommander. Includes PowerShell Module for advanced scripts.
 
 ## Python 
 
+- [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+- [xihaoduo/FreeNodes](https://github.com/xihaoduo/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
 - [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，可以用来一键自动翻译RPG SLG游戏，Epub Word TXT小说，Srt Vtt Lrc字幕等等。
