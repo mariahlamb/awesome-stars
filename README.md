@@ -103,6 +103,7 @@
 ## HTML 
 
 - [DHBin/ai-connect](https://github.com/DHBin/ai-connect) - 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [erosman/extension-translations](https://github.com/erosman/extension-translations) - Public Repository to add Translations to my Extensions
@@ -155,7 +156,6 @@
 ## Others 
 
 - [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - US.KG Free Domain For Everyone
 - [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 - [CorralPeltzer/my-stars](https://github.com/CorralPeltzer/my-stars) - A curated list of my GitHub stars by stargazed
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
@@ -282,10 +282,11 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 - [LLM-Red-Team/doubao-free-api](https://github.com/LLM-Red-Team/doubao-free-api) - 🚀 豆包大模型逆向API【特长：超强联网搜索】，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Jazee6/gemini-proxy](https://github.com/Jazee6/gemini-proxy) - Gemini proxy on Vercel Edge
 - [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
