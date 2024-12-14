@@ -92,7 +92,7 @@
 ## Go 
 
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest
-- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
+- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple langua
 - [snakem982/proxypool](https://github.com/snakem982/proxypool) - Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash
 - [mariahlamb/proxypool](https://github.com/mariahlamb/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
 - [hefangcan/proxypool](https://github.com/hefangcan/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [imoki/sign_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，兼容青龙，夸克网盘|永辉生活|霸王茶姬|所有女生|兴攀农场|屈臣氏|华住会|天气预报|和风天气|steamtools|恩山论坛|熊猫代理|达美乐比萨|LinkAi|海底捞|鸿星尔克|词霸每日一句|金山词霸|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商
 - [Sunnnner/BPB-Worker-Panel](https://github.com/Sunnnner/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and configs, providing configs for cross-platform clients using (singbox-core and xray-core)
 - [zjmkkk/Serv00_CT8_Auto_Login](https://github.com/zjmkkk/Serv00_CT8_Auto_Login) - Serv00-CT8 - 免费主机自动登录续期
 - [snakeying/GPT-Telegram-Bot](https://github.com/snakeying/GPT-Telegram-Bot) - Your own GPT Telegram Bot on Vercel
