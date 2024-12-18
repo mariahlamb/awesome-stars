@@ -216,6 +216,7 @@
 
 ## Python 
 
+- [wzdnzd/chatgpt-collector](https://github.com/wzdnzd/chatgpt-collector) - AIGC API Services Freedom
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [xihaoduo/FreeNodes](https://github.com/xihaoduo/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
 - [doveppp/linuxdo-checkin](https://github.com/doveppp/linuxdo-checkin) - linux.do Daily Check-In. 每日签到，每日打卡
