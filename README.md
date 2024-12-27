@@ -217,6 +217,7 @@
 
 ## Python 
 
+- [ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp](https://github.com/ShmuelRonen/ComfyUI-Gemini_Flash_2.0_Exp) - A ComfyUI custom node that integrates Google's Gemini Flash 2.0 Experimental model, enabling multimodal analysis of text, images, video frames, and audio directly within ComfyUI workflows.
 - [wzdnzd/chatgpt-collector](https://github.com/wzdnzd/chatgpt-collector) - AIGC API Services Freedom
 - [simonw/simonw](https://github.com/simonw/simonw) - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 - [xihaoduo/FreeNodes](https://github.com/xihaoduo/FreeNodes) - v2ray、clash免费节点爬虫，自动更新
