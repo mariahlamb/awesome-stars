@@ -102,6 +102,7 @@
 
 ## HTML 
 
+- [ZGQ-inc/overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - :electron:覆盖全平台:electron:完全免费:electron:节点订阅:electron:机场推荐:electron:破解VPN软件分享:electron:
 - [DHBin/ai-connect](https://github.com/DHBin/ai-connect) - 
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
@@ -150,7 +151,7 @@
 
 ## Kotlin 
 
-- [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 节点爬取,筛选, google ping,支持Clash,base64订阅解析,生成可用的ss, ssr, v2ray, trojan,vless节点. (若不进行二次开发,请不要fork)
+- [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费节点订阅 (若不进行二次开发,请不要fork)
 - [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 - [HdShare/HookGG](https://github.com/HdShare/HookGG) - 基于YukiHookAPI的HookGG
 - [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
@@ -164,7 +165,7 @@
 - [makipom/MomoTalk-Telegram](https://github.com/makipom/MomoTalk-Telegram) - A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-- [DustinWin/clash_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 mihomo 内核、sing-box 内核、sing-box PuerNya 版内核、Clash dashboard 面板和 AdGuard Home 最新版
+- [DustinWin/proxy-tools](https://github.com/DustinWin/proxy-tools) - 自动同步 mihomo 内核、sing-box 内核、sing-box PuerNya 版内核、Dashboard 面板和 AdGuard Home 最新版
 - [yixiu001/Free-SS-NODES](https://github.com/yixiu001/Free-SS-NODES) - 免费ss节点获取
 - [Coldvvater/Mononoke](https://github.com/Coldvvater/Mononoke) - 自用配置，引用的规则、脚本，等。
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -282,6 +283,7 @@
 
 ## TypeScript 
 
+- [SaintWe/Sub-Store-Workers](https://github.com/SaintWe/Sub-Store-Workers) - 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
