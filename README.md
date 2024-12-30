@@ -123,7 +123,7 @@
 - [imoki/sign_script](https://github.com/imoki/sign_script) - WPS签到定时重放脚本框架，兼容青龙，夸克网盘|永辉生活|霸王茶姬|所有女生|兴攀农场|屈臣氏|华住会|天气预报|和风天气|steamtools|恩山论坛|熊猫代理|达美乐比萨|LinkAi|海底捞|鸿星尔克|词霸每日一句|金山词霸|钉钉AI|阿里云盘|百度贴吧|WPS(打卡版) |哔哩哔哩|什么值得买|叮咚买菜|喜马拉雅|希沃白板|葫芦侠3楼|中兴社区|小米商城|vivo社区|宽带技术网|中兴商
 - [Sunnnner/BPB-Worker-Panel](https://github.com/Sunnnner/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and configs, providing configs for cross-platform clients using (singbox-core and xray-core)
 - [zjmkkk/Serv00_CT8_Auto_Login](https://github.com/zjmkkk/Serv00_CT8_Auto_Login) - Serv00-CT8 - 免费主机自动登录续期
-- [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+- [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
 - [snakeying/GPT-Telegram-Bot](https://github.com/snakeying/GPT-Telegram-Bot) - Your own GPT Telegram Bot on Vercel
 - [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
 - [w1770946466/Everyday_News](https://github.com/w1770946466/Everyday_News) - This is everyday news!
